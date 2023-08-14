@@ -30,3 +30,8 @@
 	path = TRESCLOUD/stock-logistics-workflow
 	url = git@github.com:TRESCLOUD/stock-logistics-workflow.git
 	branch = 14.0
+
+[submodule "TRESCLOUD/odoo-clientes-especificos/aden"]
+	path = TRESCLOUD/odoo-clientes-especificos/aden
+	url = git@github.com:TRESCLOUD/odoo-clientes-especificos.git
+	branch = 14.0
