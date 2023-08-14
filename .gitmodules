@@ -1,0 +1,32 @@
+[submodule "TRESCLOUD/ecuadorian-banks-14"]
+	path = TRESCLOUD/ecuadorian-banks-14
+	url = git@github.com:TRESCLOUD/trescloud_compiled.git
+	branch = ecuadorian-banks-14
+[submodule "TRESCLOUD/ecuadorian-hr-14"]
+	path = TRESCLOUD/ecuadorian-hr-14
+	url = git@github.com:TRESCLOUD/trescloud_compiled.git
+	branch = ecuadorian-hr-14
+[submodule "TRESCLOUD/ecuadorian-localization-14"]
+	path = TRESCLOUD/ecuadorian-localization-14
+	url = git@github.com:TRESCLOUD/trescloud_compiled.git
+	branch = ecuadorian-localization-14
+[submodule "TRESCLOUD/odoo-apps-14"]
+	path = TRESCLOUD/odoo-apps-14
+	url = git@github.com:TRESCLOUD/trescloud_compiled.git
+	branch = odoo-apps-14
+[submodule "TRESCLOUD/purchase-and-imports-14"]
+	path = TRESCLOUD/purchase-and-imports-14
+	url = git@github.com:TRESCLOUD/trescloud_compiled.git
+	branch = purchase-and-imports-14
+[submodule "TRESCLOUD/account-analytic"]
+	path = TRESCLOUD/account-analytic
+	url = git@github.com:TRESCLOUD/account-analytic.git
+	branch = 14.0
+[submodule "TRESCLOUD/server-ux"]
+	path = TRESCLOUD/server-ux
+	url = git@github.com:TRESCLOUD/server-ux.git
+	branch = 14.0
+[submodule "TRESCLOUD/stock-logistics-workflow"]
+	path = TRESCLOUD/stock-logistics-workflow
+	url = git@github.com:TRESCLOUD/stock-logistics-workflow.git
+	branch = 14.0
